@@ -1,0 +1,11 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# Notebook / interactive
+ipython>=8.0
+notebook>=6.5
+ipykernel>=6.0
+
+# Optional plotting backends (display Plotly figures inline)
+plotly>=5.0
